@@ -5,7 +5,7 @@ import WebAPI from "../img/pastel.png";
 import Weather from "../img/showcase.jpg";
 import YHDTechBlog from "../img/calculator.png";
 import StackDev from "../img/LED.png";
-import CritterSitter from "../img/run,png";
+import CritterSitter from "../img/run.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../style/Portfolio.css";
 
