@@ -5,7 +5,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yvesharry/7yves-harry-deslouches-react-portfolio.git"
+    "url": "git+https://github.com/yvesharry/yves-harry-deslouches-react-portfolio.git"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/yvesharry/yves-harry-deslouches-react-portfolio/issues"
   },
-  "homepage": "https://yvesharry.github.io/yves-harry-deslouches-React-Portfolio",
+  "homepage": "https://github.com/YvesHarry/Yves-Harry-Deslouches-React-Portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
