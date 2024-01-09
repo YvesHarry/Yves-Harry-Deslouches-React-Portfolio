@@ -21,6 +21,8 @@ The GitHub-Pages launched application showcases Yves Harry Deslouches' React Por
 
 # Overview
 
+N/A
+
 ## The Challenge
 The main objective of this project is to create a single-page application portfolio for a web developer, showcasing their experience and proficiency in building React applications.
 
